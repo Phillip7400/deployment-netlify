@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-     <h1>This will be deployed</h1>
+      <h1>This will be deployed</h1>
+      <h2 style={{backgroundColor: "deeppink", color: "deepskyblue"}}>This has been added after Netlify Deloy</h2>
     </>
   )
 }
